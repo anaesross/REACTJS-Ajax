@@ -1,2 +1,2 @@
 # REACTJS-Ajax
-Aplicação react com requisições HTTP / Ajax , consumo de API.
+Aplicação react instruindo ciclo de vida de um componente.
